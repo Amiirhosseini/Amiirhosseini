@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amiirhosseini
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Engeenring at IUT
+- 🌱 I’m currently learning Computer Engineering at IUT
 
 <!---
 Amiirhosseini/Amiirhosseini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
