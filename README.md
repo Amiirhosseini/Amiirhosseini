@@ -5,10 +5,8 @@
 <img src="https://komarev.com/ghpvc/?username=Amiirhosseini&color=blueviolet&style=flat">
 </p>
 
-    👀 I’m interested in Web Development and Machine Learning
-    🌱 I’m currently learning Computer Vision
-    💞️ I’m looking to collaborate on Open Source Project
     📫 How to reach me: hosseiniamirreza2001@gmail.com
+
 
 📈 GitHub Stats
 
