@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirreza Hosseini</h1>
-<h3 align="center">A passionate computer science student from Tehran, Iran</h3>
+<h3 align="center">A passionate computer science student from Calgary, Canada</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Amiirhosseini&color=blueviolet&style=flat">
